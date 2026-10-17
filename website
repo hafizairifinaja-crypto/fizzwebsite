@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Website Fizz</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #101820;
+      color: white;
+      text-align: center;
+    }
+    main {
+      padding: 70px 20px;
+    }
+    h1 { color: #53e0a1; }
+    p { line-height: 1.7; }
+    a {
+      display: inline-block;
+      padding: 12px 20px;
+      background: #53e0a1;
+      color: #101820;
+      text-decoration: none;
+      border-radius: 10px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Website Fizz</h1>
+    <p>Selamat datang di website buatan gue sendiri!</p>
+    <a href="https://github.com/">Kunjungi GitHub</a>
+  </main>
+</body>
+</html>
